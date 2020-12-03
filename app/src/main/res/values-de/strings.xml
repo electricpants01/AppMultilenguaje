@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt">Willkommen</string>
+    <string name="boton">reinkommen</string>
+    <string name="img_dcp">Hecho</string>
+</resources>
